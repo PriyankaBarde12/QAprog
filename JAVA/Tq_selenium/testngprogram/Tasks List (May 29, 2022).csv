@@ -1,0 +1,4 @@
+﻿"Customer","Project","Task","Task Status","Spent Time","Priority (custom field)","Estimate","Deadline","Type of Work"
+"Cust111","Tq2","Task3","Open: New","0.00","Low","","Jul 29, 2022","Billable: testing"
+"Cust111","Tq2","Task4","Open: New","0.00","Low","","Aug 01, 2022","Billable: testing"
+"Cust111","Tq2","Task5","Open: New","0.00","Low","","Aug 02, 2022","Billable: testing"
